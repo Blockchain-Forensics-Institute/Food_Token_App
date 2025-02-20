@@ -120,6 +120,12 @@ Common issues and solutions:
 4. Push to the branch
 5. Create a Pull Request
 
+## Author
+
+1. Dhruvkumar Patel(240347007017)
+2. Siddhant Desai(240347007014)
+3. Deepkumar Wagh(240347007006)
+
 ## License
 
 MIT License
