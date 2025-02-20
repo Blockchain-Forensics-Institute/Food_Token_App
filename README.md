@@ -15,7 +15,7 @@ A decentralized application for managing food tokens using Ethereum smart contra
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/food-token-app.git
+git clone -b master https://github.com/yourusername/food-token-app.git
 cd food-token-app
 ```
 
